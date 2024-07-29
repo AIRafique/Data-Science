@@ -2,8 +2,6 @@
 
 ## About
 
-`Student ID: **48065145**` 
-
 *I, the student, shall henceforth be refered to as "The Author"*
 
 This repository contains the project for portfolio part 1.
